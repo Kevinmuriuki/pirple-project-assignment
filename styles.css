@@ -1,0 +1,43 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  width: 80%;
+  margin: 10% auto;
+  position: relative;
+
+  background-color: rgb(122, 111, 97);
+}
+
+h1, h2, h3, h4, h5{
+  text-align: center;
+}
+
+.container {
+  background-color: rgb(196, 156, 107);
+}
+
+#main-header {
+  background-color: blue;
+  padding: 40px;
+}
+.content {
+
+  padding: 40px;
+}
+ul {
+  background-color: hotpink;
+  padding: 40px;
+}
+ul li {
+  list-style: none;
+}
+
+.complete{
+  background-color: greenyellow;
+}
+
+.cool {
+  background-color: rgb(117, 158, 117);
+}

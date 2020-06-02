@@ -178,6 +178,7 @@ p + h2 {
 #info5 p {
   position: relative;
   top: 30px;
+  display: none;
 }
 
 #footer {

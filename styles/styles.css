@@ -169,6 +169,18 @@ p + h2 {
   background-position: 120px -28px;
 }
 
+#info5 {
+  background-color: #1e1b1e;
+  width: 200px;
+  height: 100px;
+}
+
+#info5 p {
+  position: relative;
+  top: 30px;
+  display: none;
+}
+
 #footer {
   position: relative;
   top: 20px;

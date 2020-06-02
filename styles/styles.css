@@ -170,8 +170,14 @@ p + h2 {
 }
 
 #info5 {
-  border-color: #1e1b1e;
-  border: 10px;
+  background-color: #1e1b1e;
+  width: 200px;
+  height: 100px;
+}
+
+#info5 p {
+  position: relative;
+  top: 30px;
 }
 
 #footer {
